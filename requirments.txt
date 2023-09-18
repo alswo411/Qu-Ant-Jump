@@ -23,3 +23,6 @@ yfinance
 sympy
 io
 requests
+multipledispatch
+deprecated
+xlrd
