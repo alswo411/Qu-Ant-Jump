@@ -13,3 +13,4 @@ sympy
 tqdm
 yfinance
 streamlit_chat
+bardapi
