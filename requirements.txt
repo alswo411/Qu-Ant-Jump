@@ -12,3 +12,4 @@ streamlit_extras
 sympy
 tqdm
 yfinance
+streamlit_chat
